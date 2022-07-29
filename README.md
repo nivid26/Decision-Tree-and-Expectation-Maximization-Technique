@@ -1,0 +1,2 @@
+# Decision-Tree-and-Expectation-Maximization-Technique
+DMI technique used two algorithm in  sequential manner to impute missing values of datasets, first is decision tree (DT) and then  Expectation maximization (EMI). In this technique, DT used for finding the set of leaves from data  set and each leaf defines the correlations of attributes within horizontal segment. Then, EMI  applied to each leaf for imputation of missing values
